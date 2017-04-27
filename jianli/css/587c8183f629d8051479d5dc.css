@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'minijianxiaolis84b8332bd17cc8';
+    src: url("587c8183f629d8051479d5dc.gif")/*tpa=https://cdn.webfont.youziku.com/webfonts/nomal/97480/19465/587c8183f629d8051479d5dc.gif*/
+;
+    src: url("587c8183f629d8051479d5dc.gif-#iefix") /*tpa=https://cdn.webfont.youziku.com/webfonts/nomal/97480/19465/587c8183f629d8051479d5dc.gif?#iefix*/ format('embedded-opentype'), url("587c8183f629d8051479d5dc.bmp") /*tpa=https://cdn.webfont.youziku.com/webfonts/nomal/97480/19465/587c8183f629d8051479d5dc.bmp*/ format('woff'), url("587c8183f629d8051479d5dc.jpg") /*tpa=https://cdn.webfont.youziku.com/webfonts/nomal/97480/19465/587c8183f629d8051479d5dc.jpg*/ format('truetype'), url('#minijianxiaolishu') format('svg');
+}
+
+.css84b8332bd17cc8 {
+    font-family: 'minijianxiaolis84b8332bd17cc8';
+}
